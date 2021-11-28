@@ -38,4 +38,5 @@ playHangmanGame (called in Main function)
 I separated the code into these function mainly to improve readability
 I added a few features such as keeping track of the score and limited error handling because I thought it added to the game
     
-    
+I also added the gallows as part of the extra credit in a new function called printGallows, which simply 
+has a switch case to find out which version of the text-based gallows to print out
