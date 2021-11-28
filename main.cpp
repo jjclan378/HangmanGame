@@ -117,7 +117,7 @@ void printGallows(int numWrongGuesses) {
         case 3 :
             line3 = "|         O    ";
             line4 = "|         |    ";
-            line4 = "|         |    ";
+            line5 = "|         |    ";
             break;
         case 4 :
             line3 = "|         O    ";
